@@ -1,0 +1,3 @@
+[submodule "site/meme_generator"]
+	path = site/meme_generator
+	url = https://github.com/Mhowitt/meme_generator
